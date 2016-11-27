@@ -1,0 +1,3 @@
+[submodule "fec-election-results"]
+	path = fec-election-results
+	url = https://github.com/timothyrenner/fec-election-results.git
