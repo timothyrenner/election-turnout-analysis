@@ -1,3 +1,6 @@
 [submodule "fec-election-results"]
 	path = fec-election-results
 	url = https://github.com/timothyrenner/fec-election-results.git
+[submodule "census_voter_data"]
+	path = census_voter_data
+	url = git@github.com:timothyrenner/census_voter_data.git
