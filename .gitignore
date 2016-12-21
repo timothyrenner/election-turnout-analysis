@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 *.Rproj
-*.png
+turnout*.png
 *.feather
