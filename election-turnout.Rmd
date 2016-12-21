@@ -489,7 +489,7 @@ More data would bring in more Democrat presidential incumbents and ideally avera
 ## tl;dr
 
 A direct correlation analysis doesn't really show it well, but there's a pretty high chance (~85% according to a Bayesian model) that the Democrats tend to win when voter turnout is high.
-Want to run the notebook? Hit the [GitHub Repo]()
+Want to run the notebook? Hit the [GitHub Repo](https://github.com/timothyrenner/election-turnout-analysis).
 
 ## Thanks
 
